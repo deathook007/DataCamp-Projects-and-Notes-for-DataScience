@@ -1,4 +1,4 @@
-# DataCamp-Project-Solutions
+#📊📊 DataCamp-Project-Solutions 
 Here are all of my datacamp project solutions. Feel free to use/modify as per your requirements
 
 -> TV, Halftime Shows, and the Big Game
@@ -8,7 +8,7 @@ Here are all of my datacamp project solutions. Feel free to use/modify as per yo
 -> The GitHub History of the Scala Language
 
 
-# Introduction/Intermidiate Python For Data Science 📊📊
+# Introduction to Python for Data Science 📊
  
 Python as a Calculator
 
