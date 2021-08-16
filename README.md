@@ -1,10 +1,12 @@
 # DataCamp DataScience Project Solutions 📊📊
-Here are all of my datacamp project solutions. Feel free to use/modify as per your requirements
+#### Here are all of my datacamp project solutions. Projects covered -
 
--> TV, Halftime Shows, and the Big Game
+- TV, Halftime Shows, and the Big Game
 
--> The Android App Market on Google Play
+- The Android App Market on Google Play
 
--> The GitHub History of the Scala Language
+- The GitHub History of the Scala Language
 
--> A Visual History of Nobel Prize Winners
+- A Visual History of Nobel Prize Winners
+
+#### Notes Covered - All DatScience from Python Track Slides 
